@@ -72,8 +72,8 @@ Then one possible **optimized plan** could be:
 | 2️⃣ | 🚐 C4 | 400 km | 4 |
 
 ✅ **Total Distance Covered:** 1000 km  
-✅ **Total Time Taken:** 2 hours  
-✅ **Total People Traveling:** 3  
+✅ **Total Time Taken:** 3 hours  
+✅ **Total People Traveling:** 1  
 ✅ **Lane Limit:** Not exceeded (max 6 lanes used at any time)
 
 ---
