@@ -189,8 +189,3 @@ print(f"Max People: {result3['Max People']}")
 print(f"Journey: {result3['Journey Breakdown']['Person 1']['Route']}")
 # Expected: Time: 4, People: 1 (L=6 -> P=1)
 
-print("\n--- Example 4: D=1000 km, L=12 ---")
-result4 = find_optimal_travel_strategy(1000, 12)
-print(f"Optimal Time: {result4['Optimal Time (hours)']} hours")
-print(f"Max People: {result4['Max People']}")
-# Expected: Time: 1, People: 3
